@@ -42,7 +42,7 @@ catalog = [
         "players": 2
     }
 ]
-
+##начало самой интересной части
 
 #классы обработки
 class Games(BaseModel):
